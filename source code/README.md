@@ -1,6 +1,7 @@
 # Source Code (*Not available yet*)
 This folder contains all the source code to the SaxCoreX plugin, this will be updated everytime I make a successful update.\
-You have to everything in this folder.
+You have to clone everything in this folder to a zip file.\
+Since you are a github user you should know how to clone so I won't explain that.
 
 # REQUIREMENTS
 *You will need a:*\
