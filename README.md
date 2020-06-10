@@ -5,12 +5,12 @@ The plugin may not function if used on any other versions, feel free to make a p
 Your pull request for the converted file mustn't contain any backdoors or frontdoors whatsoever, if that is the case they will be removed and republished to the SaxCoreX repo without the malicious code.\
 *The reason for this is to stop targeted attacks on minecraft servers running the plugin that contains malicious remote access code.*
 # Where can I find the raw jarfiles?
-You can find the jarfiles in the ***jarfiles*** folder in this repository.\
+You can find the jarfiles in the [***jarfiles***](https://github.com/saxbot/SaxCoreX/tree/master/jarfiles) folder in this repository.\
 Later on in the development I will add uncompiled maven stuff so you can compile the plugin yourself.\
 The jarfiles will also work on servers that are running either Spigot or Bukkit for the minecraft version.
 # LICENSE
 The license type is a MIT License, I advise you read the license before editing or republishing the plugin yourself.\
-All the stuff is in the [license](https://github.com/saxbot/SaxCoreX/blob/master/LICENSE).
+All the stuff is in the [***license***](https://github.com/saxbot/SaxCoreX/blob/master/LICENSE).
 # NOTE
 **I am not "responsible" for anything that happens to your server whilst SaxCoreX is on it,**\
 **"YOU" take responsibility to maintain and keep your server healthy and untouched by hackers.**\
