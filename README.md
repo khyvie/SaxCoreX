@@ -10,7 +10,7 @@ Later on in the development I will add uncompiled maven stuff so you can compile
 The jarfiles will also work on servers that are running either Spigot or Bukkit for the minecraft version.
 # LICENSE
 The license type is a MIT License, I advise you read the license before editing or republishing the plugin yourself.\
-All the stuff is in the license. (License -> https://github.com/saxbot/SaxCoreX/blob/master/LICENSE)
+All the stuff is in the [license](https://github.com/saxbot/SaxCoreX/blob/master/LICENSE).
 # NOTE
 **I am not "responsible" for anything that happens to your server whilst SaxCoreX is on it,**\
 **"YOU" take responsibility to maintain and keep your server healthy and untouched by hackers.**\
