@@ -1,0 +1,32 @@
+name: SaxCoreX
+version: 1.1.2
+author: SaxBotDevelopment
+main: ga.saxfreedom.SaxCoreX.Main
+description: SaxCoreX 1.12.2 A plugin developed by sax. (Now Open Source)
+
+commands:
+  test:
+   aliases: [testcommand]
+   description: Test command.
+
+  saxcorex:
+   aliases: [saxcoreinfo, scx, scxinfo]
+   description: Shows SaxCoreX information use /scver to get version.
+
+  saxcorever:
+   aliases: [scver, scxver, saxcoreversion, scversion, saxcorexversion, saxcorexver]
+   description: Shows the current SaxCore Version.
+
+  gay:
+   aliases: [imgay]
+   description: Yes you are :)
+   
+  crashme:
+   aliases: []
+   description: Crashes your client. Literally no joke.
+      
+  condemn:
+   aliases: []
+   description: Condemns a player to death.
+   usage: /condemn <player>
+   permission: saxcorex.condemn
