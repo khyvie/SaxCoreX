@@ -26,7 +26,7 @@ import org.saxfreedom.SaxCoreX.Main;
      Player p = (Player)sender;
      
      if (p.hasPermission("scxver.use")) {
-       p.sendMessage(ChatColor.GREEN + "The server is running SaxCoreX v1.3.4.4 for 1.15.2 Paper/Spigot/Bukkit");
+       p.sendMessage(ChatColor.GREEN + "The server is running SaxCoreX v1.1.2 for 1.12.2 Paper/Spigot/Bukkit");
        return true;
      } 
      p.sendMessage(ChatColor.BLUE + "SaxCoreX " + ChatColor.DARK_GRAY + "> " + ChatColor.RED + "No permission.");
