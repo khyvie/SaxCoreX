@@ -14,4 +14,4 @@ All the stuff is in the [***license***](https://github.com/saxbot/SaxCoreX/blob/
 # NOTE
 **I am not "responsible" for anything that happens to your server whilst SaxCoreX is on it,**\
 **"YOU" take responsibility to maintain and keep your server healthy and untouched by hackers.**\
-All files on this repo do not contain any sort of backdoors or frontdoors, on pull requests if I do find backdoors or frontdoors they will be removed and I will tell the author of the pull request for version conversions that it contained a backdoor or frontdoor and that it will be removed and published to the SaxCoreX repo.
+All files on this repo do not contain any sort of backdoors or frontdoors, on pull requests if I do find backdoors or frontdoors they will be removed and I will tell the author of the pull request for version conversions that it contained a backdoor or frontdoor and that it will have to be removed or else it will not published to the SaxCoreX repo.
